@@ -1,4 +1,4 @@
-# CodingChallangeWeek0
+# Coding Challange Week 0
 
 https://crimpo.github.io/CodingChallangeWeek0
 
