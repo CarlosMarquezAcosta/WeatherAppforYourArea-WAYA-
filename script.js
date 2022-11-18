@@ -1,5 +1,5 @@
 let  weather = {
- apiKey: "Hide",
+ apiKey: "${{ env.API }}",
     fetchWeather : function(city) {
         fetch(
             "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid="+ this.apiKey + "&units=imperial"
